@@ -2,8 +2,8 @@
 - 👀 I’m interested in desenvolvimento web
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me lucas kwenda my facebook name
+- 😄 Pronouns: Kwenda
 - ⚡ Fun fact: ...
 
 <!---
