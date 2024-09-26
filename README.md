@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaskwenda
 - 👀 I’m interested in desenvolvimento web
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js,React, Nodejs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me lucas kwenda my facebook name
 - 😄 Pronouns: Kwenda
